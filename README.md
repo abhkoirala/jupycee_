@@ -1,1 +1,2 @@
-# jupycee_
+# Python complier error message enhancher for jupyter notebook
+This is a extension for jupyter notebook that enhances python complier error message produced initially. The user are provided with enhanced and summarised answers from stack overflow. The users are also provided with customized hint if they encounter any kind of complier error. For further detail pleease view the notebook files and report itself.
